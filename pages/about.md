@@ -24,7 +24,7 @@ This is a practice within the frame of DreamLab 2025 for
 
 This example followed closely the tutorial uploaded on YouTube
 
-{% include feature/image.html objectid="psychiana033;psychioana021;psychiana035" %}
+{% include feature/image.html objectid="psychiana033;psychiana021;psychiana035" %}
 
 
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
